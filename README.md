@@ -1,4 +1,4 @@
-# condensed-matter-physics
+# Condensed-matter-physics
 This repository contains numerical solutions and computational implementations of problems in Condensed Matter Physics. The primary focus is on solving theoretical physics problems using numerical methods and computational modeling.
 
 The codes in this repository are designed to:
